@@ -6,7 +6,7 @@
 %orig; 
 UIAlertView *alert = [[UIAlertView alloc]
     initWithTitle:@"Welcome" 
-    message:@"" 
+    message:@"You resprung your device!" 
     delegate:self 
     cancelButtonTitle:@"Dismiss" 
     otherButtonTitles:nil];
